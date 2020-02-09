@@ -42,13 +42,13 @@ h1 {
 }
 
 .todo-list{
-  /* display: flex;
-  flex-flow: row wrap;
-  justify-content: space-between; */
+  /* display: flex; */
+  /* flex-flow: row wrap; */
+  justify-content: space-between;
   width: 100%;
   margin: 0 auto;
   padding: 1rem;
-  margin: 1rem;
+  margin-left: 25rem;
 }
 .item {
   background-color: #5882a7;
